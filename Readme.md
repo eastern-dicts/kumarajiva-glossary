@@ -10,7 +10,5 @@
  "license":  "unknown yet",
  "editor": "Peter Hauer",
  "author": "S. Karashima"
-}
-}
-
+ }
 ```
